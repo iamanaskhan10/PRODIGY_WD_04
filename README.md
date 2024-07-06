@@ -1,4 +1,4 @@
-# PRODIGY_WD_04 (Simple Weather App)
+# PRODIGY_WD_05 (Simple Weather App)
 The Weather App is a simple and intuitive application designed to provide real-time weather information for any location you enter. It leverages the OpenWeatherMap API to fetch and display current weather conditions, including a detailed description, temperature, feels-like temperature, humidity, and wind speed. The app features a visually appealing user interface with dynamic background gradients that change based on the weather conditions to enhance the user experience.
 
 Key Features:
